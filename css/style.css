@@ -678,7 +678,7 @@ ul.cart-list > li.total > .btn:hover {
 }
 .cart-box {
   margin-top: 40px;
-  background: #ffffff;
+  background: transparent;
 }
 .main-header.fixed-menu {
   position: fixed;
