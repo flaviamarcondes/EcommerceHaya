@@ -1412,7 +1412,8 @@ ul.cart-list > li.total > .btn:hover {
   position: relative;
 }
 .all-title-box::before {
-  background: rgba(0, 0, 0, 0.6);
+	background: transparent;
+ /*- background: rgba(0, 0, 0, 0.6 */
   content: "";
   position: absolute;
   z-index: 0;
